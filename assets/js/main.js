@@ -39,7 +39,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
+							'images/emile-perron-190221-unsplash.jpg': 'center',
 							'images/bg02.jpg': 'center',
 							'images/bg03.jpg': 'center'
 						},
