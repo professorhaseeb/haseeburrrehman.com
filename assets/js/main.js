@@ -40,8 +40,8 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/emile-perron-190221-unsplash.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/paul-gilmore-95405-unsplash.jpg': 'center',
+							'images/nastuh-abootalebi-284883-unsplash.jpg': 'center'
 						},
 
 					// Delay.
